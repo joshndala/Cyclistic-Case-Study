@@ -22,3 +22,5 @@ Welcome to the Case Study on Cyclistic Bike Share Analysis! This repository cont
 - **User Distribution:** The data reveals a greater number of casual riders compared to annual members, emphasizing the company's goal of increasing the number of members to boost revenue.
 
 - **Weekend vs. Weekday Usage:** Both user groups demonstrate a notable increase in bike usage during the weekends as opposed to weekdays, providing insights for targeted marketing and operational adjustments.
+
+![Alt text](https://github.com/mnkd246/Cyclistic-Case-Study/blob/main/Graph_RideLength_Per_Day.png)
