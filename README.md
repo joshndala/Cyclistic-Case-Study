@@ -6,16 +6,19 @@ Welcome to the Case Study on Cyclistic Bike Share Analysis! This repository cont
 
 - **Business Task:** How do annual members and casual riders use Cyclistic bikes differently?
 
-- **Data Sources:** This analysis utilizes historical bike trip data provided by Cyclistic.
+- **Data Sources:** This analysis utilizes historical bike trip data between June and September 2023, provided by Cyclistic. It is available in the "Data_zipped" folder.
 
 ## Deliverables
 
 1. A clear statement of the business task.
-2. A description of data sources.
-3. Documentation of data cleaning and manipulation.
-4. A summary of the analysis.
-5. Supporting visualizations and key findings.
-6. Top three recommendations based on the analysis.
+2. Documentation of data cleaning and manipulation.
+3. A summary of the analysis.
+4. Supporting visualizations and key findings.
+5. Top three recommendations based on the analysis.
+
+An R Script can be downloaded ("CyclisticAnalysis.R") to view the documentation.
+A PowerPoint presentation can be downloaded ("Cyclistic_Presentation.pptx") to get an overview of the project, as well as the analysis and conclusion.
+Data Visualization was done on Tableau, and can be seen here: https://public.tableau.com/app/profile/joshua.ndala/viz/CaseStudy-CyclisticRideLengthinSummer2023/Sheet1
 
 ## Key Findings
 
@@ -24,5 +27,3 @@ Welcome to the Case Study on Cyclistic Bike Share Analysis! This repository cont
 - **Weekend vs. Weekday Usage:** Both user groups demonstrate a notable increase in bike usage during the weekends as opposed to weekdays, providing insights for targeted marketing and operational adjustments.
 
 ![Alt text](https://github.com/mnkd246/Cyclistic-Case-Study/blob/main/Graph_RideLength_Per_Day.png)
-
-Data Visualization was done on Tableau, and can be seen here: https://public.tableau.com/app/profile/joshua.ndala/viz/CaseStudy-CyclisticRideLengthinSummer2023/Sheet1
