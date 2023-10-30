@@ -25,4 +25,4 @@ Welcome to the Case Study on Cyclistic Bike Share Analysis! This repository cont
 
 ![Alt text](https://github.com/mnkd246/Cyclistic-Case-Study/blob/main/Graph_RideLength_Per_Day.png)
 
-Data Visualization was done on Tableau, and can be seen here: https://public.tableau.com/views/CaseStudy-CyclisticRideLengthinSummer2023/Sheet1?:language=en-US&:display_count=n&:origin=viz_share_link
+Data Visualization was done on Tableau, and can be seen here: https://public.tableau.com/app/profile/joshua.ndala/viz/CaseStudy-CyclisticRideLengthinSummer2023/Sheet1
