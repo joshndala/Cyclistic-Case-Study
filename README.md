@@ -8,12 +8,17 @@ Welcome to the Case Study on Cyclistic Bike Share Analysis! This repository cont
 
 - **Data Sources:** This analysis utilizes historical bike trip data provided by Cyclistic.
 
-- **Deliverables:**
-  1. A clear statement of the business task.
-  2. A description of data sources.
-  3. Documentation of data cleaning and manipulation.
-  4. A summary of the analysis.
-  5. Supporting visualizations and key findings.
-  6. Top three recommendations based on the analysis.
+## Deliverables
 
-Give yourself some time to review the case study's details, the methodology used, and the conclusions and suggestions provided. 
+1. A clear statement of the business task.
+2. A description of data sources.
+3. Documentation of data cleaning and manipulation.
+4. A summary of the analysis.
+5. Supporting visualizations and key findings.
+6. Top three recommendations based on the analysis.
+
+## Key Findings
+
+- **User Distribution:** The data reveals a greater number of casual riders compared to annual members, emphasizing the company's goal of increasing the number of members to boost revenue.
+
+- **Weekend vs. Weekday Usage:** Both user groups demonstrate a notable increase in bike usage during the weekends as opposed to weekdays, providing insights for targeted marketing and operational adjustments.
