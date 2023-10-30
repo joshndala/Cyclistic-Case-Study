@@ -16,8 +16,11 @@ Welcome to the Case Study on Cyclistic Bike Share Analysis! This repository cont
 4. Supporting visualizations and key findings.
 5. Top three recommendations based on the analysis.
 
+
 An R Script can be downloaded ("CyclisticAnalysis.R") to view the documentation.
+
 A PowerPoint presentation can be downloaded ("Cyclistic_Presentation.pptx") to get an overview of the project, as well as the analysis and conclusion.
+
 Data Visualization was done on Tableau, and can be seen here: https://public.tableau.com/app/profile/joshua.ndala/viz/CaseStudy-CyclisticRideLengthinSummer2023/Sheet1
 
 ## Key Findings
